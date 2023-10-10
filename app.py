@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 data = [
     {
-    "temp":34,
+    "temp":33,
     "humidity":22,
     "rain":98
      },
